@@ -24,3 +24,12 @@ DerivedData
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
 #Pods/
+enterprise.properties
+phunware-enterprise.p12
+profile.mobileprovision
+cache.properties.lock
+fileSnapshots.bin
+outputFileStates.bin
+cache.properties
+fileHashes.bin
+taskArtifacts.bin
